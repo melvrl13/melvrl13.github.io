@@ -37,8 +37,8 @@ DEFAULT_PAGINATION = 10
 MARKUP = ('md', 'ipynb')
 
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['ipynb.markup', 'tipue_search']
+PLUGINS = ['ipynb.markup', 'tipue_search', 'neighbors', 'related_posts']
 
-THEME = 'pelican-elegant-1.3'
+THEME = '/home/melvrl13/PycharmProjects/odsap/pelican-themes/plumage'
 
-
+TIPUE_SEARCH = True
