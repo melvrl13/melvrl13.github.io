@@ -6,8 +6,8 @@ AUTHOR = 'Ryan L. Melvin'
 SITENAME = 'odsap'
 SITEURL = 'http://odsap.com'
 
-PATH = 'content'
-
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
@@ -36,5 +36,9 @@ DEFAULT_PAGINATION = 10
 
 MARKUP = ('md', 'ipynb')
 
-PLUGIN_PATH = './plugins'
-PLUGINS = ['ipynb.markup']
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['ipynb.markup', 'tipue_search']
+
+THEME = 'pelican-elegant-1.3'
+
+
