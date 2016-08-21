@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>odsap</title><link href="http://odsap.com/" rel="alternate"></link><link href="http://odsap.com/feeds/all.atom.xml" rel="self"></link><id>http://odsap.com/</id><updated>2016-08-20T14:20:00-04:00</updated><entry><title>Test post</title><link href="http://odsap.com/test-post.html" rel="alternate"></link><published>2016-08-20T14:20:00-04:00</published><author><name>Ryan L. Melvin</name></author><id>tag:odsap.com,2016-08-20:test-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>odsap</title><link href="http://odsap.com/" rel="alternate"></link><link href="http://odsap.com/feeds/all.atom.xml" rel="self"></link><id>http://odsap.com/</id><updated>2016-08-21T18:45:00-04:00</updated><entry><title>Introductions, Rodin and twitter</title><link href="http://odsap.com/Rodin-feelings.html" rel="alternate"></link><published>2016-08-21T18:45:00-04:00</published><author><name>Ryan L. Melvin</name></author><id>tag:odsap.com,2016-08-21:Rodin-feelings.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -18645,4 +18645,4 @@ uqcAAAAASUVORK5CYII=
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</summary><category term="python test"></category></entry></feed>
+</summary><category term="python"></category><category term="Rodin"></category><category term="twitter"></category><category term="k-means"></category><category term="clustering"></category><category term="word cloud"></category></entry></feed>
