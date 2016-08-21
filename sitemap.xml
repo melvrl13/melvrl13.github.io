@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://odsap.com/</loc>
-<lastmod>2016-08-21T18:58:43-00:00</lastmod>
+<lastmod>2016-08-21T19:00:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://odsap.com/archives.html</loc>
-<lastmod>2016-08-21T18:58:43-00:00</lastmod>
+<lastmod>2016-08-21T19:00:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://odsap.com/categories.html</loc>
-<lastmod>2016-08-21T18:58:43-00:00</lastmod>
+<lastmod>2016-08-21T19:00:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,13 +46,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://odsap.com/tag/clustering.html</loc>
-<lastmod>2016-08-21T18:45:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://odsap.com/tag/word-cloud.html</loc>
 <lastmod>2016-08-21T18:45:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -61,6 +54,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://odsap.com/tag/python.html</loc>
+<lastmod>2016-08-21T18:45:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://odsap.com/tag/clustering.html</loc>
 <lastmod>2016-08-21T18:45:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
