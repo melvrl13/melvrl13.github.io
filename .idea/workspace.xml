@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pelicanconf.py" description="&#10;" line="70" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="55bde10d-2005-453b-b7d1-d86de7b31db9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/etra/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/solarizedlight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/tipuesearch/img/expand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/tipuesearch/img/link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/tipuesearch/img/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/tipuesearch/tipuesearch.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/tipuesearch/tipuesearch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/tipuesearch/tipuesearch_set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/test.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/test.ipynb-meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/posts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/posts.atom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/python-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/test-post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/jquery.mglass.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/pygment-solarized-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/pygment-solarized-light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/img/creampaper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/img/creampaper_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/img/fabric_plaid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/img/fabric_plaid_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/img/magnifier.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/img/play-button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/jquery.mglass.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="$PROJECT_DIR$/output/archives.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/author/ryan-l-melvin.html" afterPath="$PROJECT_DIR$/output/author/ryan-l-melvin.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="$PROJECT_DIR$/output/authors.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="$PROJECT_DIR$/output/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/category/posts.html" afterPath="$PROJECT_DIR$/output/category/posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/feeds/all.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/all.atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tag/python-test.html" afterPath="$PROJECT_DIR$/output/tag/python-test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="$PROJECT_DIR$/output/tags.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/test-post.html" afterPath="$PROJECT_DIR$/output/test-post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/theme/css/style.css" afterPath="$PROJECT_DIR$/output/theme/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tipuesearch_content.json" afterPath="$PROJECT_DIR$/output/tipuesearch_content.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
@@ -46,8 +56,8 @@
       <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+            <state relative-caret-position="596">
+              <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -83,10 +93,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1952" />
-    <option name="y" value="80" />
+    <option name="x" value="1955" />
+    <option name="y" value="52" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -369,7 +379,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1952" y="80" width="1400" height="1000" extended-state="0" />
+    <frame x="1955" y="52" width="1400" height="1027" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16928571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -404,7 +414,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -424,7 +436,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -434,9 +462,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,15 +479,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.ipynb" />
     <entry file="file://$PROJECT_DIR$/pelicanconf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+        <state relative-caret-position="596">
+          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
           <folding />
         </state>
       </provider>
