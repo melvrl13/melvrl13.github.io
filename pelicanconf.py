@@ -44,14 +44,14 @@ MARKUP = ('md', 'ipynb')
 
 # Plugins and their necessities
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['ipynb.markup', 'sitemap', 'tipue_search', 'related_posts', 'tag_cloud', 'liquid_tags.notebook']
+PLUGINS = ['pelican-ipynb.markup', 'sitemap', 'tipue_search', 'related_posts', 'tag_cloud', 'liquid_tags.notebook']
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 RELATED_POSTS_MAX = 10
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_TAGS_ON_SIDEBAR = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
-THEME = '/home/melvrl13/PycharmProjects/odsap/pelican-themes/pelican-bootstrap3'
+THEME = '/home/melvrl13/PycharmProjects/melvrl13.github.io/pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'cerulean'
 PYGMENTS_STYLE = 'solarizeddark'
 SITEMAP = {

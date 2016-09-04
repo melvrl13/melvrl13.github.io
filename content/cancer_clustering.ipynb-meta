@@ -1,0 +1,7 @@
+Title: Non-parametric clustering of genomics data
+Slug: cancer-clustering
+Date: 2016-09-04 19:05
+Category: biophysics
+Tags: python, clustering, genomics, HDBSCAN, Amorim-Hennig, scikit-learn
+Author: Ryan L. Melvin
+Summary: For dealing with data in my current field of biophysics, I've recently developed an obsession with the subset of unsupervised learning known as clustering. Specifically, I'm interested in clustering techniques that either don't require arbitrary parameter selection or can be adapted to eliminate the need for a human to make a choice. Rather than having a user select parameters for analyzing the data, I want the data to speak for itself.
